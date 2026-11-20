@@ -10,8 +10,8 @@
 
 ## SQL
 
-![SQL-bolt](bilder/bild3.png)
-![SQL-bolt](bilder/bild4.png)
+![SQL-bolt](bilder/Bild3.png)
+![SQL-bolt](bilder/Bild4.png)
 
 # Frågor som ni ska svara på (G-nivå)
 
